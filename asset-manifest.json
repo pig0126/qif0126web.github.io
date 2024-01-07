@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ec4a57a5.css",
+    "main.js": "/static/js/main.d61bc066.js",
+    "static/js/787.d4aba7ab.chunk.js": "/static/js/787.d4aba7ab.chunk.js",
+    "static/media/us1.mp4": "/static/media/us1.3052ea282e97f9b1af62.mp4",
+    "static/media/skyimg.jpg": "/static/media/skyimg.90f58e7525bb62ed50d7.jpg",
+    "static/media/portrait2.jpg": "/static/media/portrait2.ef32420e326d9b952f83.jpg",
+    "static/media/render1.png": "/static/media/render1.c7cc2cd3af9edbe55e13.png",
+    "static/media/project-img1.png": "/static/media/project-img1.b7ae46bef7548d7eab13.png",
+    "static/media/project-img3.png": "/static/media/project-img3.e48803fd0f6a3e5e0b42.png",
+    "static/media/s1.png": "/static/media/s1.55cb532666626c577327.png",
+    "static/media/Finaldesign render3.png": "/static/media/Finaldesign render3.d8e60805c9b4f235ce39.png",
+    "static/media/Finaldesign render4.png": "/static/media/Finaldesign render4.5fc1985d53ed1e6bc8e6.png",
+    "static/media/User Experience Map p1.png": "/static/media/User Experience Map p1.d1c5b7d9485d0efc9b58.png",
+    "static/media/s2.png": "/static/media/s2.fd55535e0db324a9b025.png",
+    "static/media/Finaldesign render5.png": "/static/media/Finaldesign render5.abc5f82c036cd5550fd9.png",
+    "static/media/Rubik-Bold.ttf": "/static/media/Rubik-Bold.c934eb22c2c69992b34c.ttf",
+    "static/media/Rubik-Regular.ttf": "/static/media/Rubik-Regular.55fa11cdc8b9a3ee842f.ttf",
+    "static/media/Concepttesting.png": "/static/media/Concepttesting.00fa525ca19fb6a072ef.png",
+    "static/media/Finaldesign render.png": "/static/media/Finaldesign render.f3667cde4a99efacf658.png",
+    "static/media/Finaldesign render2.png": "/static/media/Finaldesign render2.7db4a3ce9d77d8dc32dc.png",
+    "static/media/Contact-img.png": "/static/media/Contact-img.788b797db9700b193984.png",
+    "static/media/Designprogress.png": "/static/media/Designprogress.d9e3e371bcb6fff8bacc.png",
+    "static/media/nav-icon3.svg": "/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
+    "static/media/nav-icon1.svg": "/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "index.html": "/index.html",
+    "static/media/nav-icon2.svg": "/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
+    "main.ec4a57a5.css.map": "/static/css/main.ec4a57a5.css.map",
+    "main.d61bc066.js.map": "/static/js/main.d61bc066.js.map",
+    "787.d4aba7ab.chunk.js.map": "/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec4a57a5.css",
+    "static/js/main.d61bc066.js"
+  ]
+}
